@@ -2,6 +2,8 @@
 
 :wave: I'm an engineer at GitHub building cool stuff.
 
+❓ Got a question for me? Just [file an issue in my personal repo](https://github.com/anurse/anurse/issues/new).
+
 🔭 Working on 📄 GitHub Pages, 📦 [App Center](https://appcenter.ms/), 👶 fatherhood.
 
 🕐 Previously: ASP.NET Core, SignalR, NuGet, Razor
