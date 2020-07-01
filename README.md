@@ -2,13 +2,17 @@
 
 :wave: I'm an engineer at GitHub building cool stuff.
 
+I live in Seattle :us:, grew up in Vancouver :canada:, and have lots of family in :uk:.
+
 ❓ Got a question for me? Just [file an issue in my personal repo](https://github.com/anurse/anurse/issues/new).
 
-🔭 Working on 📄 GitHub Pages, 📦 [App Center](https://appcenter.ms/), 👶 fatherhood.
+🔭 Working on :octocat: GitHub, 👶 being a father.
 
 🕐 Previously: ASP.NET Core, SignalR, NuGet, Razor
 
-🌱 Learning how to [build a 🎮 NES emulator](https://github.com/anurse/nest)
+🌱 Learning Go, re-learning Ruby.
+
+👷‍♀️ Building [a 🎮 NES emulator](https://github.com/anurse/nest), [an operating system](https://github.com/anurse/arboros), and other fun stuff.
 
 💬 Ask me about .NET, ASP.NET, Rust
 
