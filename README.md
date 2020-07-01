@@ -1,6 +1,8 @@
 # Andrew Stanton-Nurse
 
-:wave: I'm an engineer at GitHub building cool stuff.
+![Mario waves hello](https://media.giphy.com/media/euAnOkLGWtdHG/giphy.gif)
+
+:wave: I'm an engineer at :octocat: GitHub building cool stuff.
 
 :house: I live in Seattle :us:, grew up in Vancouver :canada:, and have lots of family in :uk:.
 
@@ -11,6 +13,8 @@
 🕐 Previously: ASP.NET Core, SignalR, NuGet, Razor
 
 🌱 Learning Go, re-learning Ruby.
+
+:joystick: Play Nintendo, PS4, Board Games, D&D.
 
 👷‍♀️ Building [a 🎮 NES emulator](https://github.com/anurse/nest), [an operating system](https://github.com/anurse/arboros), and other fun stuff.
 
