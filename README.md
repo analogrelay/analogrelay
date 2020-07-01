@@ -2,7 +2,7 @@
 
 :wave: I'm an engineer at GitHub building cool stuff.
 
-I live in Seattle :us:, grew up in Vancouver :canada:, and have lots of family in :uk:.
+:house: I live in Seattle :us:, grew up in Vancouver :canada:, and have lots of family in :uk:.
 
 ❓ Got a question for me? Just [file an issue in my personal repo](https://github.com/anurse/anurse/issues/new).
 
