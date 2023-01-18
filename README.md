@@ -25,3 +25,11 @@
 * https://hachyderm.io/@analogrelay
 * https://github.com/analogrelay (you're here already!)
 * https://www.linkedin.com/in/andrewstantonnurse/
+
+## Cryptographic Identities
+
+The following Cryptographic Identities are associated with me:
+
+* SSH Git Signing Key: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEjRwisd5P4UEZtXMO19uk+ly2Jbu9LgLmGmlmWz7Mbh`
+* PGP Git Signing Key: `42ECAC889F98413E5C23970604277A6059CB213C` (on [keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=42ECAC889F98413E5C23970604277A6059CB213C&fingerprint=on&op=index))
+* PGP Email Key: `8C18BFDC0BD12A86615893D51408A22DB14E40D8` (on [keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=8C18BFDC0BD12A86615893D51408A22DB14E40D8&fingerprint=on&op=index))
