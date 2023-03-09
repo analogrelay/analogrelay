@@ -24,7 +24,7 @@
 
 * https://hachyderm.io/@analogrelay
 * https://github.com/analogrelay (you're here already!)
-* https://www.linkedin.com/in/andrewstantonnurse/
+* https://www.linkedin.com/in/analogrelay/
 
 ## Cryptographic Identities
 
