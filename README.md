@@ -2,7 +2,7 @@
 
 ![Mario waves hello](https://media.giphy.com/media/euAnOkLGWtdHG/giphy.gif)
 
-:wave: I'm an engineer at [A Serious Business](https://aseriousbusiness.com) building cool stuff.
+:wave: I'm an engineer at [Regression Games](https://regression.gg/) building cool stuff.
 
 :house: I live in Seattle :us:, grew up in Vancouver :canada:, and have lots of family in :uk:.
 
