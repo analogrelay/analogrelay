@@ -2,17 +2,15 @@
 
 ![Mario waves hello](https://media.giphy.com/media/euAnOkLGWtdHG/giphy.gif)
 
-:wave: I'm an engineer at [Regression Games](https://regression.gg/) building cool stuff.
+:wave: I'm an engineer at Microsoft building cool stuff.
 
 :house: I live in Seattle :us:, grew up in Vancouver :canada:, and have lots of family in :uk:.
 
 ❓ Got a question for me? Just [file an issue in my personal repo](https://github.com/analogrelay/analogrelay/issues/new).
 
-🔭 Working on [Regression Games](https://regression.gg), 👶 parenting.
+🔭 Working on Azure Cosmos DB, 👶 parenting.
 
 🕐 Previously: ASP.NET Core, SignalR, NuGet, Razor, :octocat: GitHub
-
-🌱 Learning Go, re-learning Ruby.
 
 :joystick: Play Nintendo, PS5, Board Games, D&D.
 
